@@ -1,0 +1,5 @@
+# FINAL-Andrew-Martin
+I simply want to start a website for an agency I've been thinking about starting. The final project would be essentially a mock-up since I do not currently have an agency, but I feel I could still flesh it out well with made up band names, etc.
+I would need my own internal DB of bands, dates they are playing, dates they are available, articles/press on the bands, and any promotional materials. To have these, I will use both internal and external information. The external information will come in the way of the articles/press on the acts, the rest can be held internally.
+The users would be people that like our roster, talent buyers looking for acts to book, and promoters looking for materials to promote shows. These users want to be able to look up current shows, see our full roster, see who's available and open for booking, and download press materials. They want to be able to do this easily, without having to spend hours on our site.
+To make this work, I'll need to use HTML & CSS for basic website style, then I will need to connect it to some databases possibly using JS as the glue. 
